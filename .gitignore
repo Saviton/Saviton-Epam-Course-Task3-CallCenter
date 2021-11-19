@@ -1,0 +1,13 @@
+*.class
+target/
+
+## IntelliJ
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+# Log file
+*.log
